@@ -1,0 +1,10 @@
+
+Problem 3 Results
+
+Number of executable files : 4
+Largest resource : lab-assgn3.pdf (56043 bytes)
+Smallest resource : pathological-tests.pdf (25325 bytes)
+Resources not accessible to other users:
+None
+Oldest resource : lab-assgn3.pdf
+Most recent resource : p2

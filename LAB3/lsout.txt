@@ -1,0 +1,29 @@
+total 536
+ 4 drwxrwxr-x 2 btech1036124 btech1036124  4096 Aug 20 11:32 .
+ 4 drwxr-x--- 8 btech1036124 btech1036124  4096 Aug 13 12:26 ..
+ 4 -rw-rw-r-- 1 btech1036124 btech1036124   241 Aug 13 10:47 bsrandinp1.txt
+ 4 -rw-rw-r-- 1 btech1036124 btech1036124   243 Aug 13 10:47 bstestinp1.txt
+56 -rw-rw-r-- 1 btech1036124 btech1036124 56043 Aug 13 10:47 lab-assgn3.pdf
+28 -rw-rw-r-- 1 btech1036124 btech1036124 26694 Aug 13 10:47 lex-meta-symbols.pdf
+ 0 -rw-rw-r-- 1 btech1036124 btech1036124     0 Aug 20 11:33 lsout.txt
+ 4 -rw-rw-r-- 1 btech1036124 btech1036124   261 Aug 20 11:20 my_p3_out.txt
+ 4 -rw-rw-r-- 1 btech1036124 btech1036124  3184 Aug 20 11:32 my_sampleout.txt
+ 4 -rw-rw-r-- 1 btech1036124 btech1036124   430 Aug 20 11:26 my_ver1a_out.txt
+ 4 -rw-rw-r-- 1 btech1036124 btech1036124   378 Aug 20 11:31 my_ver1b_out.txt
+40 -rwxrwxr-x 1 btech1036124 btech1036124 40079 Aug 20 11:31 p1a
+ 4 -rw-rw-r-- 1 btech1036124 btech1036124  2028 Aug 20 10:40 p1a.l
+48 -rw-rw-r-- 1 btech1036124 btech1036124 48375 Aug 20 11:26 p1a_lex.yy.c
+40 -rwxrwxr-x 1 btech1036124 btech1036124 40127 Aug 20 11:32 p1b
+ 4 -rw-rw-r-- 1 btech1036124 btech1036124  2069 Aug 20 10:42 p1b.l
+48 -rw-rw-r-- 1 btech1036124 btech1036124 48416 Aug 20 11:31 p1b_lex.yy.c
+40 -rwxrwxr-x 1 btech1036124 btech1036124 40151 Aug 20 11:33 p2
+ 4 -rw-rw-r-- 1 btech1036124 btech1036124  3934 Aug 20 11:02 p2.l
+52 -rw-rw-r-- 1 btech1036124 btech1036124 51373 Aug 20 11:32 p2_lex.yy.c
+40 -rwxrwxr-x 1 btech1036124 btech1036124 40559 Aug 20 11:25 p3
+ 4 -rw-rw-r-- 1 btech1036124 btech1036124  3960 Aug 20 11:18 p3.l
+52 -rw-rw-r-- 1 btech1036124 btech1036124 51649 Aug 20 11:18 p3_lex.yy.c
+28 -rw-rw-r-- 1 btech1036124 btech1036124 25325 Aug 13 10:47 pathological-tests.pdf
+ 4 -rw-rw-r-- 1 btech1036124 btech1036124  3292 Aug 13 10:47 sampleout.txt
+ 4 -rw-rw-r-- 1 btech1036124 btech1036124   364 Aug 13 10:47 sampleprog.c
+ 4 -rw-rw-r-- 1 btech1036124 btech1036124   460 Aug 13 10:47 ver1a_out.txt
+ 4 -rw-rw-r-- 1 btech1036124 btech1036124   365 Aug 13 10:47 ver1b_out.txt
